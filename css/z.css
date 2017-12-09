@@ -1,0 +1,22 @@
+@charset "utf-8";
+ol,ul,li,dl,dt,dd {list-style-type: none;padding: 0;margin: 0;}
+p, ul, ol, dl, h1,h2,h3,h4,h5,h6 {margin: 0px;}
+em {font-style: normal;}
+img {max-width: 100%}
+.clear {clear: both;}
+html {background: #f3f3f3;}
+body {width: 96%;margin: 1rem auto;background: #fff;padding-bottom: 1rem;}
+header,footer {margin: 0 1rem;}
+#top {text-align: center;}
+
+header h3 {background: blue;text-align: center;color: #fff;line-height: 2rem;}
+header h5 {color: red;text-align: center;}
+#box {margin: 1rem}
+
+
+.title {background: #f3f3f3;padding: 0.5rem;border: 1px solid #ccc;}
+
+#box table {width: 100%;border-collapse:collapse;text-align: center;}
+#box table td,#box table th {border: 1px solid #ccc;padding: 0.3rem}
+
+#box a {color: blue;}
